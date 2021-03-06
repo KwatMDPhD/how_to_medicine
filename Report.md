@@ -1,0 +1,192 @@
+## Source of Information
+
+This encounter took place via HOW at WHERE on WHEN.
+
+The source of the information is SOURCE, who appears reliable.
+
+---
+
+## History of Present Illness
+
+NAME is a AGE year old SEX, with history remarkable for HISTORY, who presents with PRESENTATION.
+
+STORY
+
+ONSET
+FREQUENCY
+DURATION
+
+RADIATION
+SCORE
+PROCOVATION
+PALLIATION
+
+Additional findings include: ADDITIONAL_FINDING.
+
+The patient thinks PATIENT_PERSPECTIVE.
+
+---
+
+## Past Medical History
+
+HISTORY
+
+ALLERGY
+
+conditoin in|since when
+
+## Medication and Supplement
+
+MEDICATION
+
+SUPPLEMENT
+
+thing; timing; adherence
+
+## Prevention
+
+IMMUNIZATION
+
+SCREENING
+
+---
+
+## Family Medical History
+
+Family history of CONDITION
+
+FATHER
+
+MOTHER
+
+SIBLING
+
+CHILD
+
+person with condition
+
+---
+
+## Social History
+
+HOME
+EMPLOYMENT
+
+SLEEP
+DIET
+EXERCISE
+HOBBY
+
+PEOPLE
+PET
+
+---
+
+## Sensitive History
+
+ALCOHOL
+TABACCO
+DRUG
+quantity; timing
+
+SEX
+
+PSYCHIATRY
+LEGAL
+SAFETY
+SUPPORT
+
+---
+
+## Review of System
+
+(is positive for the following)
+
+REVIEW OF SYSTEM
+
+---
+
+## Vital
+
+(is remarkable for the following)
+
+VITAL
+
+---
+
+## Physical Exam
+
+(is remarkable for the following)
+
+PHYSICAL EXAM
+
+### Lung
+
+### Heart
+
+### Abdomen
+
+### Mental status
+
+### Skull
+
+### Nose
+
+### Eye
+
+### Face
+
+### Ear
+
+### Mouth
+
+### Neck
+
+### Arm
+
+### Leg
+
+### Back
+
+### Coordination
+
+---
+
+## Diagnostic Test
+
+(is remarkable for the following)
+
+DIAGNOSTIC TEST
+
+---
+
+## Summary
+
+In summary, NAME is a AGE year old SEX, with history remarkable for HISTORY, who presents with PRESENTATION.
+The interview is remarkable for: ...
+The vital is remarkable for: ...
+The physical exam is remarkable for: ...
+The diagnostic test is remarkable for: ...
+
+The findings suggest the diagnosis of D1 because: ...
+
+Other diagnoses considered include: D2, D3, and D4.
+D2 is possible because: ... However, ...
+D3 is possible because: ... However, ...
+D4 is possible because: ... However, ...
+
+---
+
+## Assessment
+
+For the problem of P1, likely diagnosis include: D1, D2, and D3.
+
+D1 is the most likely because: ... However, ...
+D2 is possible because: ... However, ...
+D3 is possible because: ... However, ...
+
+We should diagnose this problem by ...
+
+We should treat this problem with ...
+
+We should educate the patient with ...
