@@ -54,6 +54,8 @@
 
 ### Patient Perspective
 
+### Effect on Daily Activity
+
 ---
 
 ## Health

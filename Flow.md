@@ -36,7 +36,7 @@ Verify identity.
 
 ## Frame
 
-"I'm here to help you with your medical needs."
+"PATIENTALIAS, I'm here to help you with your medical needs."
 
 "I want to ask you some questions and do a physical exam."
 
