@@ -13,6 +13,7 @@ Touch
 ## Face
 
 Touch
+
 - Sinus
 
 ## Ear
@@ -24,10 +25,12 @@ Scope
 ## Mouth
 
 Touch
+
 - Outside
 - Inside
 
 Look
+
 - Inside
 - Tongue
 
@@ -36,11 +39,13 @@ Look
 ## Neck
 
 Move
+
 - Flex-extend
 - Lateral bend
 - Rotate
 
 Touch
+
 - Lymphnode
 - Larynx
 - Thyroid gland
@@ -60,6 +65,7 @@ Touch
 Touch
 
 Move
+
 - Flex-extend
 - Abduct-adduct
 - Rotate

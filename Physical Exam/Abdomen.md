@@ -4,7 +4,7 @@ Press costovertebral angle.
 
 ## Anterior
 
-### All 
+### All
 
 Inspect.
 

@@ -4,10 +4,12 @@ Plan the next 24 hours.
 
 1. Visit the patient to check availability.
 2. Review the chart to identify:
+
 - Story
 - Problems
 - Metrics
 - Plans
+
 3. Examine the patient.
 4. Write the report.
 
@@ -71,9 +73,7 @@ STORY.
 
 ### Diagnostic
 
--
-
----
+- ***
 
 ## Plan
 

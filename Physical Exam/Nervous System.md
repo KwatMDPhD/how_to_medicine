@@ -7,17 +7,20 @@ Awake
 Alert
 
 Orient (cognition)
+
 - Person
 - Time
 - Place
 - Situation
 
 Speech
+
 - Clear (volume, articulation)
 - Fluent
 - Error
 
 Language
+
 - Comprehend
 - Repete
 - Name
@@ -50,6 +53,7 @@ Acuity
 Color (Ishihara plate)
 
 Fundoscope
+
 - Sharp disk (optic nerve atrophy too sharp or too blurry)
 - Vascular change (angiopathy, diabetes)
 
@@ -68,6 +72,7 @@ Light reflex (light ipsilateral pupil, light contralateral puppil, swing test no
 ### 5
 
 Touch
+
 - Forehead
 - Cheek
 - Jaw
@@ -81,6 +86,7 @@ Corneal reflex (5.1 senses and 7 blinks)
 ### 7
 
 Facial muscles
+
 - Raise eyebrows
 - Close eyes
 - Show teeth
@@ -109,6 +115,7 @@ Palate
 Swallow
 
 Tongue
+
 - Midline
 - Move
 
@@ -174,7 +181,7 @@ Range of motion and strength
 
 - Touch
 - Pain
-(B12 posterior column)
+  (B12 posterior column)
 - Proprioception
 - Vibration
 
@@ -195,6 +202,7 @@ Blind standing (no hand no balance, hand balance)
 Stand up without arms, hold a little to check orthostasis
 
 Walk
+
 - Pace
 - Step
 - Arm swing
