@@ -24,6 +24,8 @@ Lean into the patient.
 
 Name patient's emotion.
 
+Keep a broad differential diagnosis.
+
 ## Greet
 
 "I'm looking for PATIENTNAME."
