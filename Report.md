@@ -1,10 +1,5 @@
 ## SOURCE OF INFORMATION
 
-This encounter took place via HOW at WHERE on WHEN.
-The source of the information is SOURCE.
-
-### Encounter
-
 When
 (Year-Month-Day-Hour-Minute)
 
@@ -14,23 +9,16 @@ How
 
 Source
 
-## HISTORY OF PRESENT ILLNESS
-
-FIRSTNAME is a AGE year old SEX, with history of HISTORY, who presents with PRESENTATION.
-
-### Patient
-
 Firstname Lastname
 
-Age
+Data of birth
+(Year-Month-Day)
 
 Sex
 
-### Problem
+## HISTORY OF PRESENT ILLNESS
 
-Presentation
-
-#### Element
+Chief complain
 
 Quality
 (Patient's words)
@@ -46,35 +34,29 @@ Aggrevation
 
 Alleviation
 
-#### Time
-
 Onset
 
 Duration
 
 Frequency
 
-#### Subjective
-
-Perspective
-
-Impact
+Trend
 
 ## MEDICAL HISTORY
 
 Event
-(Condition; time)
+(Condition; timing)
 
 Allergy
-(Element; reaction)
+(Thing; reaction)
 
-## MEDICATION AND SUPPLEMENT
+## INTAKE
 
 Medication
-(Element; amount; time; adrerence)
+(Thing; amount; timing; adrerence)
 
 Supplement
-(Element; amount; time; adrerence)
+(Thing; amount; timing; adrerence)
 
 ## PREVENTION
 
@@ -112,16 +94,14 @@ People
 
 Pet
 
-### Sensitive
-
 Alcohol
-(Amount; time)
+(Amount; timing)
 
 Tabacco
-(Amount; time)
+(Amount; timing)
 
 Drug
-(Amount; time)
+(Amount; timing)
 
 Sex
 
@@ -239,9 +219,6 @@ Support
 - Tremor
 - Numbness
 - Tingling
-
-#### Eye
-
 - Vision change
 - Glass or contact
 - Eye pain
@@ -251,9 +228,6 @@ Support
 - Flashing light
 - Speck or floater
 - Last eye exam
-
-#### Ear
-
 - Change in hearing
 - Ringing (tinnitus)
 - Earache
@@ -265,18 +239,12 @@ Support
 - Easy bleeding
 - Red spot on skin (petechiae)
 - Lymphnode enlargement
-
-#### Constitutional
-
 - Weight change
 - Fever or chill
 - Trouble sleeping
 - Night sweat (number of sheets and pajama)
 - Fatigue
 - Weakness
-
-#### Allergic
-
 - Reaction to food, drug, or other
 - Hive
 - Hay fever
@@ -311,7 +279,7 @@ Support
 - Nervousness
 - Depression
 
-## Vital
+## VITAL
 
 Temperature
 
@@ -321,19 +289,19 @@ Blood pressure
 
 Respiratory rate
 
-%O₂ (room temperature)
+%O₂
 
-## [Physical Exam](Physical Exam.md)
+## [PHYSICAL EXAM](Physical Exam.md)
 
-## Diagnostic
+## DIAGNOSTIC
 
-## Assessment
+## ASSESSMENT
 
 In summary, NAME is a AGE year old SEX, with history of HISTORY, who presents with PRESENTATION.
 The interview is remarkable for: ...
 The vital is remarkable for: ...
 The physical exam is remarkable for: ...
-The diagnostic test is remarkable for: ...
+The diagnostic is remarkable for: ...
 
 The findings suggest the diagnosis of D1 because: ...
 
@@ -348,9 +316,9 @@ D1 is the most likely because: ... However, ...
 D2 is possible because: ... However, ...
 D3 is possible because: ... However, ...
 
-## Plan
+## PLAN
 
-We should diagnose this problem by ...
+We should diagnose this problem with ...
 
 We should treat this problem with ...
 
