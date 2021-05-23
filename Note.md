@@ -1,7 +1,12 @@
-## Encounter
+## SOURCE OF INFORMATION
+
+This encounter took place via HOW at WHERE on WHEN.
+The source of the information is SOURCE.
+
+### Encounter
 
 When
-Year-Month-Day-Hour-Minute
+(Year-Month-Day-Hour-Minute)
 
 Where
 
@@ -9,7 +14,11 @@ How
 
 Source
 
-## Patient
+## HISTORY OF PRESENT ILLNESS
+
+FIRSTNAME is a AGE year old SEX, with history of HISTORY, who presents with PRESENTATION.
+
+### Patient
 
 Firstname Lastname
 
@@ -17,20 +26,19 @@ Age
 
 Sex
 
-## Problem
+### Problem
 
 Presentation
 
-Story
+#### Element
 
-### 
 Quality
-Patient's words
+(Patient's words)
 
 Radiation
 
 Score
-0-10
+(0-10)
 
 Association
 
@@ -38,39 +46,43 @@ Aggrevation
 
 Alleviation
 
-Onset
+#### Time
 
-Frequency
+Onset
 
 Duration
 
-Additional Finding
+Frequency
 
-Patient Perspective
+#### Subjective
 
-Effect on Daily Activity
+Perspective
 
-## Health
+Impact
 
-History
-Condition; time
+## MEDICAL HISTORY
+
+Event
+(Condition; time)
 
 Allergy
-Thing; reaction
+(Element; reaction)
+
+## MEDICATION AND SUPPLEMENT
 
 Medication
-Thing; amount; time; adrerence
+(Element; amount; time; adrerence)
 
 Supplement
-Thing; amount; time; adrerence
+(Element; amount; time; adrerence)
 
-## Prevention
+## PREVENTION
 
 Immunization
 
 Screening
 
-## Family
+## FAMILY MEDICAL HISTORY
 
 Condition
 
@@ -82,7 +94,7 @@ Sibling
 
 Child
 
-## Lifestyle
+## SOCIAL HISTORY
 
 Home
 
@@ -100,16 +112,16 @@ People
 
 Pet
 
-## Lifestyle (sensitive)
+### Sensitive
 
 Alcohol
-Amount; time
+(Amount; time)
 
 Tabacco
-Amount; time
+(Amount; time)
 
 Drug
-Amount; time
+(Amount; time)
 
 Sex
 
@@ -121,7 +133,7 @@ Safety
 
 Support
 
-## Review of System
+## REVIEW OF SYSTEM
 
 ### Circulatory
 
@@ -247,17 +259,6 @@ Support
 - Earache
 - Ear drainage
 
-### Skeletal
-
-- Muscle or joint pain
-- Back pain
-- Swelling of joint
-- Stiffness
-- Redness of joint
-- Trauma
-- Range of motion
-- Instability
-
 ### Blood
 
 - Easy bruising
@@ -279,6 +280,17 @@ Support
 - Reaction to food, drug, or other
 - Hive
 - Hay fever
+
+### Skeletal
+
+- Muscle or joint pain
+- Back pain
+- Swelling of joint
+- Stiffness
+- Redness of joint
+- Trauma
+- Range of motion
+- Instability
 
 ### Skin
 
@@ -311,6 +323,35 @@ Respiratory rate
 
 %O₂ (room temperature)
 
-## [Exam](Exam.md)
+## [Physical Exam](Physical Exam.md)
 
 ## Diagnostic
+
+## Assessment
+
+In summary, NAME is a AGE year old SEX, with history of HISTORY, who presents with PRESENTATION.
+The interview is remarkable for: ...
+The vital is remarkable for: ...
+The physical exam is remarkable for: ...
+The diagnostic test is remarkable for: ...
+
+The findings suggest the diagnosis of D1 because: ...
+
+Other diagnoses considered include: D2, D3, and D4.
+D2 is possible because: ... However, ...
+D3 is possible because: ... However, ...
+D4 is possible because: ... However, ...
+
+For the problem of P1, likely diagnosis include: D1, D2, and D3.
+
+D1 is the most likely because: ... However, ...
+D2 is possible because: ... However, ...
+D3 is possible because: ... However, ...
+
+## Plan
+
+We should diagnose this problem by ...
+
+We should treat this problem with ...
+
+We should educate the patient with ...
