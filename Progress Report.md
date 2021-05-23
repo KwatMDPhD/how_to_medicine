@@ -1,24 +1,24 @@
-## History of Present Illness
+## HISTORY OF PRESENT ILLNESS
 
 NAME is a AGE year old SEX, with history of HISTORY, who has been cared for PROBLEM since WHEN.
 
 STORY
 
-## New (past 24 hours)
+## NEW (PAST 24 HOURS)
 
-## Subjective
+## SUBJECTIVE
 
-## Medication
+## MEDICATION
 
-## Vital
+## VITAL
 
 - Input:
 - Output:
 
-## Physical Exam
+## PHYSICAL EXAM
 
-## Diagnostic
+## DIAGNOSTIC
 
-## Assessment
+## ASSESSMENT
 
-## Plan
+## PLAN
