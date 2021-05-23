@@ -1,136 +1,125 @@
 ## Encounter
 
-### When
-
+When
 Year-Month-Day-Hour-Minute
 
-### Where
+Where
 
-### How
+How
 
-### Source
+Source
 
 ## Patient
 
-### Name
-
 Firstname Lastname
 
-### Age
+Age
 
-### Sex
+Sex
 
 ## Problem
 
-### Presentation
+Presentation
 
-### Story
+Story
 
-### Onset
-
-### Frequency
-
-### Duration
-
-### Quality
-
+### 
+Quality
 Patient's words
 
-### Radiation
+Radiation
 
-### Score
-
+Score
 0-10
 
-### Association
+Association
 
-### Aggrevation
+Aggrevation
 
-### Alleviation
+Alleviation
 
-### Additional Finding
+Onset
 
-### Patient Perspective
+Frequency
 
-### Effect on Daily Activity
+Duration
+
+Additional Finding
+
+Patient Perspective
+
+Effect on Daily Activity
 
 ## Health
 
-### History
-
+History
 Condition; time
 
-### Allergy
-
+Allergy
 Thing; reaction
 
-### Medication
+Medication
+Thing; amount; time; adrerence
 
-Thing; time; adrerence
-
-### Supplement
-
-Thing; time; adrerence
+Supplement
+Thing; amount; time; adrerence
 
 ## Prevention
 
-### Immunization
+Immunization
 
-### Screening
+Screening
 
 ## Family
 
-### Condition
+Condition
 
-### Father
+Father
 
-### Mother
+Mother
 
-### Sibling
+Sibling
 
-### Child
+Child
 
 ## Lifestyle
 
-### Home
+Home
 
-### Employment
+Employment
 
-### Sleep
+Sleep
 
-### Diet
+Diet
 
-### Exercise
+Exercise
 
-### Hobby
+Hobby
 
-### People
+People
 
-### Pet
+Pet
 
 ## Lifestyle (sensitive)
 
-### Alcohol
+Alcohol
+Amount; time
 
-Quantity; time
+Tabacco
+Amount; time
 
-### Tabacco
+Drug
+Amount; time
 
-Quantity; time
+Sex
 
-### Drug
+Psychiatry
 
-Quantity; time
+Legal
 
-### Sex
+Safety
 
-### Psychiatry
-
-### Legal
-
-### Safety
-
-### Support
+Support
 
 ## Review of System
 
@@ -167,6 +156,12 @@ Quantity; time
 
 ### Digestive
 
+- Dry mouth
+- Gum pain or bleeding
+- Sore tongue
+- Tooth pain
+- Denture
+- Last dental exam
 - Trouble swallowing (dysphagia)
 - Painful swallowing (odynophagia)
 - Heartburn
@@ -252,18 +247,6 @@ Quantity; time
 - Earache
 - Ear drainage
 
-#### Mouth
-
-- Dry mouth
-- Gum pain or bleeding
-- Sore tongue
-
-#### Tooth
-
-- Tooth pain
-- Denture
-- Last dental exam
-
 ### Skeletal
 
 - Muscle or joint pain
@@ -318,29 +301,16 @@ Quantity; time
 
 ## Vital
 
-- Temperature:
-- Heart rate:
-- Blood pressure:
-- Respiratory rate:
-- %O₂ at room temperature:
+Temperature
 
-## Physical Exam
+Heart rate
 
-- Head and neck:
-- Heart:
-- Lung:
-- Abdomen:
-- Extremity:
-- Skin:
-- Mental status:
-- CN 1:
-- CN 2:
-- CN 3, 4, 6:
-- CN 5:
-- CN 7:
-- CN 8:
-- CN 9, 10, 12:
-- CN 11:
-- Posture and gait:
+Blood pressure
+
+Respiratory rate
+
+%O₂ (room temperature)
+
+## [Exam](Exam.md)
 
 ## Diagnostic

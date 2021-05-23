@@ -1,16 +1,16 @@
 ## Greet
 
-"I'm looking for PATIENTNAME."
+"I am looking for PATIENTNAME."
 
 Verify identity.
 
-"My name is MYNAME. I'm a TITLE. You can call me MYALIAS."
+"My name is MYNAME. I am a TITLE. You can call me MYALIAS."
 
 "How do you want me to call you?"
 
 ## Frame
 
-"PATIENTALIAS, I'm here to help you with your medical needs."
+"PATIENTALIAS, I am here to help you with your medical needs."
 
 "I want to ask you some questions and do a physical exam."
 
@@ -28,9 +28,9 @@ Verify identity.
 
 ## Summarize
 
-"I'm going to try to summarize what you told me. If I'm missing anything or there is something you want to add, just let me know."
+"I am going to try to summarize what you told me. If I am missing anything or there is something you want to add, just let me know."
 
-## Physical Exam
+## Exam
 
 ## End
 
