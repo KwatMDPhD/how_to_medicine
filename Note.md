@@ -1,8 +1,8 @@
-## ENCOUNTER
+## Encounter
 
 ### When
 
-(year-month-day-hour-minute)
+year-month-day-hour-minute
 
 ### Where
 
@@ -10,17 +10,17 @@
 
 ### Source
 
-## PATIENT
+## Patient
 
 ### Name
 
-(Firstname Lastname)
+Firstname Lastname
 
 ### Age
 
 ### Sex
 
-## PROBLEM
+## Problem
 
 ### Presentation
 
@@ -34,13 +34,13 @@
 
 ### Quality
 
-(Patient's words)
+Patient's words
 
 ### Radiation
 
 ### Score
 
-(0-10)
+0-10
 
 ### Association
 
@@ -54,31 +54,31 @@
 
 ### Effect on Daily Activity
 
-## HEALTH
+## Health
 
 ### History
 
-(Condition; time)
+Condition; time
 
 ### Allergy
 
-(Thing; reaction)
+Thing; reaction
 
 ### Medication
 
-(Thing; time; adrerence)
+Thing; time; adrerence
 
 ### Supplement
 
-(Thing; time; adrerence)
+Thing; time; adrerence
 
-## PREVENTION
+## Prevention
 
 ### Immunization
 
 ### Screening
 
-## FAMILY
+## Family
 
 ### Condition
 
@@ -90,7 +90,7 @@
 
 ### Child
 
-## LIFESTYLE
+## Lifestyle
 
 ### Home
 
@@ -108,19 +108,24 @@
 
 ### Pet
 
-## LIFESTYLE (SENSITIVE)
+## Lifestyle (sensitive)
 
 ### Alcohol
 
-(Quantity; time)
+Quantity; time
 
 ### Tabacco
 
-(Quantity; time)
+Quantity; time
 
 ### Drug
 
-(Quantity; time)
+Quantity; time
+
+- Marijuana
+- Opiate
+- Hallucinogen
+- Stimulant
 
 ### Sex
 
@@ -132,149 +137,183 @@
 
 ### Support
 
-## REVIEW OF SYSTEM
+## Review of System
 
 ### Circulatory
 
 - Chest pain or discomfort
 - Tightness
-- Palpitations
+- Palpitation
 - Shortness of breath while lying flat (orthopnea)
 - Shortness of breath right after bending (bendopnea)
-- Swollen feet (edema)
-- Pain in legs with exercise (claudication)
+- Swollen foot (edema)
+- Pain in leg with exercise (claudication)
+- Leg cramp
 - Sore tongue
-- Leg cramps
 
 ### Respiratory
+
+#### Nose
+
+- Itchy
+- Runny
+- Stuffy
+- Bloody (epistaxis)
+
+#### Sinus
+
+- Pain
+
+#### Throat
+
+- Sore
+- Hoarseness
+
+#### Lower respiratory tract
 
 - Cough (productive or dry)
 - Sputum (color and amount)
 - Blood in sputum (hemoptysis)
-- Shortness of breath (dyspnea)
 - Wheezing
-- Painful breathing
-- Chest pain
+- Shortness of breath (dyspnea)
+- Chest pain when breathing
+
+#### Exposure
+
 - Smoking
 - Pollution
 - Occupation
 
-#### Throat
-
-- Sore throat
-- Hoarseness
-
 ### Digestive
+
+#### Pharynx
 
 - Trouble swallowing (dysphagia)
 - Painful swallowing (odynophagia)
+
+#### Esophagus
+
 - Heartburn
+
+#### Habit
+
 - Change in appetite
 - Food intolerance
+- Change in bowel habit
+
+#### Dysentery
+
 - Abdominal pain
 - Nausea
 - Vomiting
-- Change in bowel habits
-- Rectal bleeding
+
+#### Output
+
+- Flatulence
 - Constipation
 - Diarrhea
-- Juandice
+- Rectal bleeding
 - Hematochezia
 - Melena
-- Flatulence
+
+#### Liver
+
+- Juandice
 
 ### Urinary
 
+####
+
 - Urinary frequency
 - Urinary urgency
+- Urinating at night (nocturia)
+
+####
+
 - Painful urination (dysuria)
 - Blood in urine (hematuria)
-- Urinating at night (nocturia)
+
+####
+
 - Incontinence
 - Change in urinary stream
 
 ### Reproductive
 
-- Pain with sex
+- Rash
+- Sore
 - Discharge
-- Rashes
-- Sores
+- Pain with sex
 
 #### XX
 
-- Vaginal dryness
+- Dryness
 - Itching
-- Hot flashes
+- Hot flash
 - Menstrual regularity
-- Painful periods (dysmenorrhea)
+- Painful period (dysmenorrhea)
 
 #### XY
 
 - Hernia
-- Masses
+- Mass
 - Testicular pain
 
 ### Endocrine
 
 - Heat or cold intolerance
 - Sweating
-- Urinating a lot (polyuria)
 - Drinking a lot (polydipsia)
 - Eating a lot (polyphagia)
+- Urinating a lot (polyuria)
 
 ### Nervous
 
 - Dizziness
 - Fainting
-- Seizures
+- Seizure
 - Weakness
 - Tremor
 - Numbness
 - Tingling
 
-#### Nose
-
-- Stuffiness
-- Itching
-- Bloody nose (epistaxis)
-- Runny nose
-- Sinus pain
-
 #### Eye
 
-- Vision changes
-- Glasses or contacts
+- Vision change
+- Glass or contact
 - Pain
 - Redness
 - Blurry or double vision
-- Cataracts
-- Flashing lights
+- Cataract
+- Flashing light
+- Speck or floater
 - Last eye exam
-- Specks or floaters
 
 #### Ear
 
-- Changes in hearing
-- Earache
+- Change in hearing
 - Ringing (tinnitus)
+- Earache
 - Ear drainage
 
 #### Mouth
 
 - Dry mouth
-- Sore tongue
-- Last dental exam
-- Tooth pain
 - Gum pain or bleeding
-- Dentures
+- Sore tongue
+
+#### Tooth
+- Tooth pain
+- Denture
+- Last dental exam
 
 ### Skeletal
 
 - Muscle or joint pain
 - Back pain
-- Swelling of joints
+- Swelling of joint
 - Stiffness
-- Redness of joints
+- Redness of joint
 - Trauma
 - Range of motion
 - Instability
@@ -283,33 +322,33 @@
 
 - Easy bruising
 - Easy bleeding
-- Red spots on skin (petechiae)
+- Red spot on skin (petechiae)
 - Lymphnode enlargement
 
 #### Constitutional
 
 - Weight change
-- Fever or chills
+- Fever or chill
 - Trouble sleeping
-- Night sweat; number of sheets and pajamas
+- Night sweat (number of sheets and pajama)
 - Fatigue
 - Weakness
 
 #### Allergic
 
-- Reactions to food, drugs, or other
-- Hives
+- Reaction to food, drug, or other
+- Hive
 - Hay fever
 
 ### Skin
 
-- Rashes
+- Rash
 - Itching
 - Color change
-- Lumps
+- Lump
 - Dryness
-- Hair and nail changes
-- Moles
+- Hair and nail change
+- Mole
 - Nipple discharge
 - Breast self-exam
 
@@ -320,7 +359,7 @@
 - Nervousness
 - Depression
 
-## VITAL
+## Vital
 
 - Temperature:
 - Heart rate:
@@ -328,7 +367,7 @@
 - Respiratory rate:
 - %O₂ at room temperature:
 
-## PHYSICAL EXAM
+## Physical Exam
 
 - Head and neck:
 - Heart:
@@ -347,4 +386,4 @@
 - CN 11:
 - Posture and gait:
 
-## DIAGNOSTIC
+## Diagnostic

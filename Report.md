@@ -1,9 +1,9 @@
-## SOURCE OF INFORMATION
+## Source of Information
 
 This encounter took place via HOW at WHERE on WHEN.
 The source of the information is SOURCE, who appears reliable.
 
-## HISTORY OF PRESENT ILLNESS
+## History of Present Illness
 
 NAME is a AGE year old SEX, with history remarkable for HISTORY, who presents with PRESENTATION.
 
@@ -21,28 +21,28 @@ ASSOCIATION
 AGGREVATION
 ALLEVIATION
 
-ADDITIONAL_FINDING
+ADDITIONALFINDING
 
-PATIENT_PERSPECTIVE
+PATIENTPERSPECTIVE
 
-EFFECT_ON_DAILY_ACTIVITY
+EFFECTONDAILYACTIVITY
 
-## PAST MEDICAL HISTORY
+## Past Medical History
 
 HISTORY
 ALLERGY
 
-## MEDICATION AND SUPPLEMENT
+## Medication and Supplement
 
 MEDICATION
 SUPPLEMENT
 
-## PREVENTION
+## Prevention
 
 IMMUNIZATION
 SCREENING
 
-## FAMILY MEDICAL HISTORY
+## Family Medical History
 
 CONDITION
 
@@ -51,7 +51,7 @@ MOTHER
 SIBLING
 CHILD
 
-## SOCIAL HISTORY
+## Social History
 
 HOME
 EMPLOYMENT
@@ -64,7 +64,7 @@ HOBBY
 PEOPLE
 PET
 
-## SOCIAL HISTORY (SENSITIVE)
+## Social History (sensitive)
 
 ALCOHOL
 TABACCO
@@ -77,15 +77,15 @@ LEGAL
 SAFETY
 SUPPORT
 
-## REVIEW OF SYSTEM
+## Review of System
 
-## VITAL
+## Vital
 
-## PHYSICAL EXAM
+## Physical Exam
 
-## DIAGNOSTIC
+## Diagnostic
 
-## ASSESSMENT
+## Assessment
 
 In summary, NAME is a AGE year old SEX, with history of HISTORY, who presents with PRESENTATION.
 The interview is remarkable for: ...
@@ -106,7 +106,7 @@ D1 is the most likely because: ... However, ...
 D2 is possible because: ... However, ...
 D3 is possible because: ... However, ...
 
-## PLAN
+## Plan
 
 We should diagnose this problem by ...
 

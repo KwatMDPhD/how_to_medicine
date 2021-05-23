@@ -1,34 +1,21 @@
-## Introduction
-
-- My name is...
-- Call me...
-- I'm a...
-- I'm here to...
-- Call you?
-- I want to assure you that everything we talk about is confidential between us and the healthcare team, except when there is an immediate threat to someone.
-
 ## Chief Complain
-
-- What's up
 
 ## History of Present Illness
 
-- Talk more
 - Mood
 - Onset
 - Trigger
-- Impact to life
-- Build story
+- Impact
 
 ## Medication
 
 - What
-- How much
+- Amount
 - Adherence
 
-## Psychiatric Review of System
+## Review of System
 
-Anxiety
+### Anxiety
 
 - Worry
 - Trouble relaxing
@@ -36,7 +23,9 @@ Anxiety
 - Compulsive behavior
 - Nightmare
 
-Depression (1 required + 5 + impairment for 2 weeks)
+### Depression
+
+1 required + 5, for 2 weeks
 
 - Interests low (required)
 - Mood low (required)
@@ -48,7 +37,9 @@ Depression (1 required + 5 + impairment for 2 weeks)
 - Psychomotor low or high
 - Suicide passive or active
 
-Mania ([3 | 4 with irritability] + impairment for 1 week)
+### Mania
+
+(3 | 4 with irritability), for 1 week
 
 - Pace high
 - Outlandish high
@@ -59,7 +50,9 @@ Mania ([3 | 4 with irritability] + impairment for 1 week)
 - Energy high
 - Sleep low
 
-Psychosis (1 required + 2 + impairment for 6 months)
+### Psychosis
+
+1 required + 2, for 6 months
 
 - Hallucination (required)
 - Delusion (false and fixed belief) (required)
@@ -67,7 +60,7 @@ Psychosis (1 required + 2 + impairment for 6 months)
 - Disorganized behavior (not functional)
 - Any negative symptoms (lack of: affect, words, motivation, emotion, or socialization)
 
-## Psychiatric History
+## History
 
 - First professional psychiatric contact
 - Psychiatric diagnosis
@@ -80,11 +73,13 @@ Psychosis (1 required + 2 + impairment for 6 months)
 - Trauma (list examples and ask again)
 - Violence
 
-## (Childhood)
+## Childhood
 
 ## Family Psychiatry
 
-Include substance and suicide
+- Condition
+- Substance
+- Suicide
 
 ## Substance History
 
@@ -92,33 +87,9 @@ Include substance and suicide
 - Last time
 - Amount
 - Frequency
-- Longest sober duration
+- Sober duration
 - Treatment
 
-- Alcohol
-- Tabacco
-- Marijuana
-- Stimulant
-- Opiate
-- Hallucinogen
-- Perscribed drug
-
 ## Social History
-
-- Home
-- Sleep
-- Diet
-- Exercise
-- Education
-- Employment
-- Hobby
-- Spirituality
-- Family
-- Partner
-- Sex
-- Law
-- Safety
-- Community
-- Support
 
 ## Medical History

@@ -1,4 +1,4 @@
-## Mental status
+## Mental Status
 
 "I have to ask some silly routine question."
 
@@ -6,23 +6,23 @@ Awake
 
 Alert
 
-Orient (cognition)
+Orient (cognition):
 
 - Person
 - Place
 - Time
 - Situation
 
-Speech
+Speech:
 
 - Clear (volume, articulation)
 - Fluent
 - Error
 
-Language
+Language:
 
 - Comprehend
-- Repete
+- Repeat 
 - Name
 - Read
 - Write
@@ -32,7 +32,7 @@ Dysarthria and aphagia
 Mimic
 
 Recall 3 objects from different categories in 5 minutes; hint if fail.
-(hippocampus encode, prefrontal cortex association)
+Hippocampus encodes and prefrontal cortex associates.
 
 Remember distant past events
 
@@ -131,6 +131,8 @@ Use 2 hands
 
 (Proximal to distal)
 
+Feel first.
+
 (0 none, 1 flicker, 2 horizontal plane, 3 veritcal place antigravity, 4 some resistance, 5 normal)
 
 (Trauma)
@@ -141,6 +143,10 @@ Bulk and tone
 
 Range of motion and strength
 
+- Neck
+  - Flex-extend
+  - Lateral bend
+  - Rotate
 - Shoulder
   - Flex-extend
   - Adduct-abduct
@@ -156,6 +162,10 @@ Range of motion and strength
   - Flex-extend
   - Adduct-abduct
   - Thumb oppose
+- Back
+  - Flex-extend
+  - Abduct-adduct
+  - Rotate
 - Hip
   - Flex-extend
   - Adduct-abduct
@@ -192,7 +202,7 @@ Cognitive sense (2 point discrimination)
 
 Move proximally if no sense
 
-## Coordination and Gait (Basal ganglia < Cerebellum)
+## Coordination and Gait (basal ganglia < cerebellum)
 
 Nose-finger touch
 
