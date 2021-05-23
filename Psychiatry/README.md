@@ -2,16 +2,17 @@
 
 ## History of Present Illness
 
-- Mood
-- Onset
-- Trigger
-- Impact
+Mood
+
+Onset
+
+Trigger
+
+Impact
 
 ## Medication
 
-- What
-- Amount
-- Adherence
+Thing, amount, adherence
 
 ## Review of System
 
@@ -25,7 +26,7 @@
 
 ### Depression
 
-1 required + 5, for 2 weeks
+1 required + 5, for 2 weeks:
 
 - Interests low (required)
 - Mood low (required)
@@ -39,7 +40,7 @@
 
 ### Mania
 
-(3 | 4 with irritability), for 1 week
+(3 | 4 with irritability), for 1 week:
 
 - Pace high
 - Outlandish high
@@ -52,7 +53,7 @@
 
 ### Psychosis
 
-1 required + 2, for 6 months
+1 required + 2, for 6 months:
 
 - Hallucination (required)
 - Delusion (false and fixed belief) (required)
@@ -62,33 +63,39 @@
 
 ## History
 
-- First professional psychiatric contact
-- Psychiatric diagnosis
-- Psychotherapy
-- Psychiatric medications
-- Psychiatric hospitalization
-- Self harm
-- Suicidal
-- Homocidal
-- Trauma (list examples and ask again)
-- Violence
+First professional contact
+
+Diagnosis
+
+Therapy
+
+Medication
+
+Hospitalization
+
+Self harm
+
+Suicidal
+
+Homocidal
+
+Trauma
+
+Violence
 
 ## Childhood
 
 ## Family Psychiatry
 
-- Condition
-- Substance
-- Suicide
+Condition
+
+Substance
+
+Suicide
 
 ## Substance History
 
-- First time
-- Last time
-- Amount
-- Frequency
-- Sober duration
-- Treatment
+Thing, first time, last time, amount, frequency, sober duration, treatment
 
 ## Social History
 

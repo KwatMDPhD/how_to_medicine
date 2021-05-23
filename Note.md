@@ -2,7 +2,7 @@
 
 ### When
 
-year-month-day-hour-minute
+Year-Month-Day-Hour-Minute
 
 ### Where
 
@@ -122,11 +122,6 @@ Quantity; time
 
 Quantity; time
 
-- Marijuana
-- Opiate
-- Hallucinogen
-- Stimulant
-
 ### Sex
 
 ### Psychiatry
@@ -153,116 +148,77 @@ Quantity; time
 
 ### Respiratory
 
-#### Nose
-
-- Itchy
-- Runny
-- Stuffy
-- Bloody (epistaxis)
-
-#### Sinus
-
-- Pain
-
-#### Throat
-
-- Sore
+- Itchy nose
+- Runny nose
+- Stuffy nose
+- Bloody nose (epistaxis)
+- Sinus pain
+- Sore throat
 - Hoarseness
-
-#### Lower respiratory tract
-
 - Cough (productive or dry)
 - Sputum (color and amount)
 - Blood in sputum (hemoptysis)
 - Wheezing
 - Shortness of breath (dyspnea)
 - Chest pain when breathing
-
-#### Exposure
-
 - Smoking
 - Pollution
 - Occupation
 
 ### Digestive
 
-#### Pharynx
-
 - Trouble swallowing (dysphagia)
 - Painful swallowing (odynophagia)
-
-#### Esophagus
-
 - Heartburn
-
-#### Habit
-
 - Change in appetite
 - Food intolerance
 - Change in bowel habit
-
-#### Dysentery
-
 - Abdominal pain
 - Nausea
 - Vomiting
-
-#### Output
-
 - Flatulence
 - Constipation
 - Diarrhea
 - Rectal bleeding
 - Hematochezia
 - Melena
-
-#### Liver
-
 - Juandice
 
 ### Urinary
 
-####
-
 - Urinary frequency
 - Urinary urgency
 - Urinating at night (nocturia)
-
-####
-
 - Painful urination (dysuria)
 - Blood in urine (hematuria)
-
-####
-
 - Incontinence
 - Change in urinary stream
 
 ### Reproductive
 
-- Rash
-- Sore
-- Discharge
+- Genital rash
+- Genital sore
+- Genital discharge
 - Pain with sex
 
 #### XX
 
-- Dryness
-- Itching
+- Vaginal dryness
+- Vaginal itching
 - Hot flash
 - Menstrual regularity
 - Painful period (dysmenorrhea)
 
 #### XY
 
-- Hernia
-- Mass
+- Testicular hernia
+- Testicular Mass
 - Testicular pain
 
 ### Endocrine
 
 - Heat or cold intolerance
-- Sweating
+- Sweating a lot
 - Drinking a lot (polydipsia)
 - Eating a lot (polyphagia)
 - Urinating a lot (polyuria)
@@ -281,8 +237,8 @@ Quantity; time
 
 - Vision change
 - Glass or contact
-- Pain
-- Redness
+- Eye pain
+- Eye redness
 - Blurry or double vision
 - Cataract
 - Flashing light
@@ -303,6 +259,7 @@ Quantity; time
 - Sore tongue
 
 #### Tooth
+
 - Tooth pain
 - Denture
 - Last dental exam
