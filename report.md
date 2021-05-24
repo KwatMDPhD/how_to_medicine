@@ -249,7 +249,7 @@ Support
 - Earache
 - Ear drainage
 
-### Blood
+### Lymphatic
 
 - Easy bruising
 - Easy bleeding
@@ -276,7 +276,7 @@ Support
 - Range of motion
 - Instability
 
-### Skin
+### Integumentary
 
 - Rash
 - Itching
