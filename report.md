@@ -204,7 +204,7 @@ Support
 - Genital discharge
 - Pain with sex
 
-#### XX
+#### Female
 
 - Vaginal dryness
 - Vaginal itching
@@ -212,11 +212,19 @@ Support
 - Menstrual regularity
 - Painful period (dysmenorrhea)
 
-#### XY
+#### Male
 
 - Testicular hernia
 - Testicular Mass
 - Testicular pain
+
+### Endocrine
+
+- Heat or cold intolerance
+- Sweating a lot
+- Drinking a lot (polydipsia)
+- Eating a lot (polyphagia)
+- Urinating a lot (polyuria)
 
 ### Nervous
 
@@ -240,14 +248,6 @@ Support
 - Ringing (tinnitus)
 - Earache
 - Ear drainage
-
-### Endocrine
-
-- Heat or cold intolerance
-- Sweating a lot
-- Drinking a lot (polydipsia)
-- Eating a lot (polyphagia)
-- Urinating a lot (polyuria)
 
 ### Blood
 
