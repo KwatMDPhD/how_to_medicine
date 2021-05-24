@@ -1,6 +1,6 @@
 ## SOURCE OF INFORMATION
 
----
+###
 
 When
 (Year-Month-Day-Hour-Minute)
@@ -11,7 +11,7 @@ How
 
 Source
 
----
+###
 
 Firstname Lastname
 
@@ -22,7 +22,7 @@ Sex
 
 ## HISTORY OF PRESENT ILLNESS
 
----
+###
 
 Chief complain
 
@@ -34,7 +34,7 @@ Radiation
 Score
 (0-10)
 
----
+###
 
 Association
 
@@ -42,7 +42,7 @@ Aggrevation
 
 Alleviation
 
----
+###
 
 Onset
 
@@ -50,7 +50,7 @@ Duration
 
 Frequency
 
----
+###
 
 Trend
 
@@ -74,11 +74,11 @@ Screening
 
 ## FAMILY MEDICAL HISTORY
 
----
+###
 
 Condition
 
----
+###
 
 Father
 
@@ -102,13 +102,13 @@ Exercise
 
 Hobby
 
----
+###
 
 People
 
 Pet
 
----
+###
 
 Alcohol
 (Amount; timing)
@@ -119,7 +119,7 @@ Tabacco
 Drug
 (Amount; timing)
 
----
+###
 
 Sex
 
@@ -301,13 +301,13 @@ Support
 
 Temperature
 
----
+###
 
 Heart rate
 
 Blood pressure
 
----
+###
 
 Respiratory rate
 
