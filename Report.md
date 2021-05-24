@@ -1,6 +1,6 @@
 ## SOURCE OF INFORMATION
 
-### Encounter
+###
 
 When
 (Year-Month-Day-Hour-Minute)
@@ -11,7 +11,7 @@ How
 
 Source
 
-### Patient
+###
 
 Firstname Lastname
 
@@ -52,7 +52,9 @@ Frequency
 
 ###
 
-Trend
+History
+
+Change
 
 ## MEDICAL HISTORY
 
@@ -90,9 +92,13 @@ Child
 
 ## SOCIAL HISTORY
 
+###
+
 Home
 
 Employment
+
+###
 
 Sleep
 
@@ -110,20 +116,17 @@ Pet
 
 ###
 
-Alcohol
-(Amount; timing)
+Alcohol; amount; timing
 
-Tabacco
-(Amount; timing)
+Tabacco; amount; timing
 
-Drug
-(Amount; timing)
+Drug; amount; timing
 
 ###
 
 Sex
 
-Psychiatry
+[Psychiatry](Psychiatric Exam.md)
 
 Legal
 
@@ -220,14 +223,6 @@ Support
 - Testicular Mass
 - Testicular pain
 
-### Endocrine
-
-- Heat or cold intolerance
-- Sweating a lot
-- Drinking a lot (polydipsia)
-- Eating a lot (polyphagia)
-- Urinating a lot (polyuria)
-
 ### Nervous
 
 - Dizziness
@@ -250,6 +245,14 @@ Support
 - Ringing (tinnitus)
 - Earache
 - Ear drainage
+
+### Endocrine
+
+- Heat or cold intolerance
+- Sweating a lot
+- Drinking a lot (polydipsia)
+- Eating a lot (polyphagia)
+- Urinating a lot (polyuria)
 
 ### Blood
 
@@ -301,13 +304,9 @@ Support
 
 Temperature
 
-###
-
 Heart rate
 
 Blood pressure
-
-###
 
 Respiratory rate
 
