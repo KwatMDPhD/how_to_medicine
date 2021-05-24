@@ -1,6 +1,6 @@
 ## SOURCE OF INFORMATION
 
-###
+### Encounter
 
 When
 (Year-Month-Day-Hour-Minute)
@@ -11,7 +11,7 @@ How
 
 Source
 
-###
+### Patient
 
 Firstname Lastname
 
