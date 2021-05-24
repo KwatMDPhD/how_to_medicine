@@ -312,7 +312,7 @@ Respiratory rate
 
 %O₂
 
-## [PHYSICAL EXAM](./Report.md)
+## [PHYSICAL EXAM]("Physical Exam.md")
 
 ## DIAGNOSTIC
 
