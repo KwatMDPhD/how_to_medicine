@@ -25,6 +25,7 @@ Sex
 ## History of Present Illness
 
 Mood
+(Patient's words)
 
 Onset
 
@@ -124,3 +125,27 @@ Thing; first time; last time; amount; frequency; sober duration; treatment
 ## Social History
 
 ## Medical History
+
+## Mental Status
+
+Appearance
+
+Behavior
+
+Speech
+
+Mood
+
+Affect
+
+Thought Process
+
+Thought Content
+
+Perception (hallucination)
+
+Insight (self awareness)
+
+Judgement
+
+Cognition
