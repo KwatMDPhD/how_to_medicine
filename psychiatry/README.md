@@ -1,3 +1,25 @@
+## Source of Information
+
+###
+
+When
+(Year-Month-Day-Hour-Minute)
+
+Where
+
+How
+
+Source
+
+###
+
+Firstname Lastname
+
+Data of birth
+(Year-Month-Day)
+
+Sex
+
 ## Chief Complain
 
 ## History of Present Illness
@@ -10,9 +32,11 @@ Trigger
 
 Impact
 
-## Medication
+## Intake
 
-Thing, amount, adherence
+Medication; amount; timing; adrerence
+
+Supplement; amount; timing; adrerence
 
 ## Review of System
 
@@ -61,7 +85,7 @@ Thing, amount, adherence
 - Disorganized behavior (not functional)
 - Any negative symptoms (lack of: affect, words, motivation, emotion, or socialization)
 
-## History
+## Psychiatric History
 
 First professional contact
 
@@ -85,7 +109,7 @@ Violence
 
 ## Childhood
 
-## Family Psychiatry
+## Family Psychiatric History
 
 Condition
 
@@ -95,7 +119,7 @@ Suicide
 
 ## Substance History
 
-Thing, first time, last time, amount, frequency, sober duration, treatment
+Thing; first time; last time; amount; frequency; sober duration; treatment
 
 ## Social History
 

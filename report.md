@@ -20,11 +20,9 @@ Data of birth
 
 Sex
 
+## Chief Complain
+
 ## History of Present Illness
-
-###
-
-Chief complain
 
 Quality
 (Patient's words)
@@ -125,7 +123,7 @@ Drug; amount; timing
 
 Sex
 
-[Psychiatry](psychiatry)
+Psychiatry
 
 Safety
 
@@ -315,7 +313,7 @@ Respiratory rate
 
 %O₂
 
-## [Physical Exam](physical_exam.md)
+## Physical Exam
 
 ## Diagnostic
 

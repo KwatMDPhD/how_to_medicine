@@ -22,7 +22,7 @@ Verify identity.
 
 "Is that okay with you?"
 
-## [Interview](report.md)
+## Interview
 
 "I want to assure you that everything we talk about is confidential between us and the healthcare team, except when there is an immediate threat to someone."
 
@@ -30,7 +30,7 @@ Verify identity.
 
 "I am going to try to summarize what you have told me. If I am missing anything or there is something you want to add, let me know."
 
-## [Physical Exam](physical_exam.md)
+## Physical Exam
 
 ## End
 

@@ -1,21 +1,23 @@
-## HISTORY OF PRESENT ILLNESS
+## History of Present Illness
 
-## NEW (PAST 24 HOURS)
+## Past 24 Hours
 
-## SUBJECTIVE
+New event
 
-## INTAKE
+## Subjective
 
-## VITAL
+## Intake
+
+## Vital
 
 Input
 
 Output
 
-## PHYSICAL EXAM
+## Physical Exam
 
-## DIAGNOSTIC
+## Diagnostic
 
-## ASSESSMENT
+## Assessment
 
-## PLAN
+## Plan

@@ -6,7 +6,7 @@
 
 ## Mood
 
-Quote patient's words.
+Patient's words
 
 ## Affect
 
