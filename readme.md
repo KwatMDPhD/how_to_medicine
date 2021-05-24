@@ -8,19 +8,21 @@ Verify identity.
 
 "How do you want me to call you?"
 
-## Frame
+## Frame and Consent
 
 "PATIENTALIAS, I am here to help you with your medical needs."
 
 "I want to ask you some questions and do a physical exam."
 
-("I want to assure you that there is no one here with me and this is a private conversation.")
-
-("If the connection fails, rejoin.")
-
-("If you can not hear me, waive your hand.")
-
 "Is that okay with you?"
+
+### Tele
+
+"I want to assure you that there is no one here with me and this is a private conversation."
+
+"If the connection fails, rejoin."
+
+"If you can not hear me, waive your hand."
 
 ## Interview
 
@@ -29,8 +31,6 @@ Verify identity.
 ## Summarize
 
 "I am going to try to summarize what you have told me. If I am missing anything or there is something you want to add, let me know."
-
-## Physical Exam
 
 ## End
 
