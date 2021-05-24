@@ -126,7 +126,7 @@ Drug; amount; timing
 
 Sex
 
-[Psychiatry](Psychiatric Exam.md)
+(Psychiatry)[Psychiatric Exam.md]
 
 Legal
 
