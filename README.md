@@ -16,9 +16,9 @@ Verify identity.
 
 ("I want to assure you that there is no one here with me and this is a private conversation.")
 
-("If the connection fails you can rejoin.")
+("If the connection fails, rejoin.")
 
-("If you can not hear me waive your hand.")
+("If you can not hear me, waive your hand.")
 
 "Is that okay with you?"
 
@@ -28,7 +28,7 @@ Verify identity.
 
 ## Summarize
 
-"I am going to try to summarize what you told me. If I am missing anything or there is something you want to add, just let me know."
+"I am going to try to summarize what you have told me. If I am missing anything or there is something you want to add, let me know."
 
 ## Physical Exam
 
@@ -36,7 +36,7 @@ Verify identity.
 
 "Do you have any questions, concerns, or anything else that we can help you with?"
 
-"If anyting comes up please let us know."
+"If anyting comes up, let us know."
 
 Tell the patient what is next.
 

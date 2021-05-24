@@ -1,4 +1,4 @@
-## SOURCE OF INFORMATION
+## Source of Information
 
 ###
 
@@ -20,7 +20,7 @@ Data of birth
 
 Sex
 
-## HISTORY OF PRESENT ILLNESS
+## History of Present Illness
 
 ###
 
@@ -31,8 +31,7 @@ Quality
 
 Radiation
 
-Score
-(0-10)
+0-10
 
 ###
 
@@ -56,25 +55,25 @@ History
 
 Change
 
-## MEDICAL HISTORY
+## Medical History
 
 Event; timing
 
 Allergen; reaction
 
-## INTAKE
+## Intake
 
 Medication; amount; timing; adrerence
 
 Supplement; amount; timing; adrerence
 
-## PREVENTION
+## Prevention
 
 Immunization
 
 Screening
 
-## FAMILY MEDICAL HISTORY
+## Family Medical History
 
 ###
 
@@ -90,7 +89,7 @@ Sibling
 
 Child
 
-## SOCIAL HISTORY
+## Social History
 
 ###
 
@@ -126,15 +125,13 @@ Drug; amount; timing
 
 Sex
 
-[Psychiatry](./Psychiatry)
-
-Legal
+[Psychiatry](psychiatry)
 
 Safety
 
 Support
 
-## REVIEW OF SYSTEM
+## Review of System
 
 ### Circulatory
 
@@ -300,23 +297,29 @@ Support
 - Nervousness
 - Depression
 
-## VITAL
+## Vital
+
+###
 
 Temperature
+
+###
 
 Heart rate
 
 Blood pressure
 
+###
+
 Respiratory rate
 
 %O₂
 
-## [PHYSICAL EXAM](Physical\ Exam.md)
+## [Physical Exam](physical_exam.md)
 
-## DIAGNOSTIC
+## Diagnostic
 
-## ASSESSMENT
+## Assessment
 
 In summary, NAME is a AGE year old SEX, with history of HISTORY, who presents with PRESENTATION.
 The interview is remarkable for: ...
@@ -337,7 +340,7 @@ D1 is the most likely because: ... However, ...
 D2 is possible because: ... However, ...
 D3 is possible because: ... However, ...
 
-## PLAN
+## Plan
 
 We should diagnose this problem with ...
 
