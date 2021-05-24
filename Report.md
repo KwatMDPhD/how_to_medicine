@@ -1,5 +1,7 @@
 ## SOURCE OF INFORMATION
 
+---
+
 When
 (Year-Month-Day-Hour-Minute)
 
@@ -9,6 +11,8 @@ How
 
 Source
 
+---
+
 Firstname Lastname
 
 Data of birth
@@ -17,6 +21,8 @@ Data of birth
 Sex
 
 ## HISTORY OF PRESENT ILLNESS
+
+---
 
 Chief complain
 
@@ -28,11 +34,15 @@ Radiation
 Score
 (0-10)
 
+---
+
 Association
 
 Aggrevation
 
 Alleviation
+
+---
 
 Onset
 
@@ -40,23 +50,21 @@ Duration
 
 Frequency
 
+---
+
 Trend
 
 ## MEDICAL HISTORY
 
-Event
-(Condition; timing)
+Event; timing
 
-Allergy
-(Thing; reaction)
+Allergen; reaction
 
 ## INTAKE
 
-Medication
-(Thing; amount; timing; adrerence)
+Medication; amount; timing; adrerence
 
-Supplement
-(Thing; amount; timing; adrerence)
+Supplement; amount; timing; adrerence
 
 ## PREVENTION
 
@@ -66,7 +74,11 @@ Screening
 
 ## FAMILY MEDICAL HISTORY
 
+---
+
 Condition
+
+---
 
 Father
 
@@ -90,9 +102,13 @@ Exercise
 
 Hobby
 
+---
+
 People
 
 Pet
+
+---
 
 Alcohol
 (Amount; timing)
@@ -102,6 +118,8 @@ Tabacco
 
 Drug
 (Amount; timing)
+
+---
 
 Sex
 
@@ -283,9 +301,13 @@ Support
 
 Temperature
 
+---
+
 Heart rate
 
 Blood pressure
+
+---
 
 Respiratory rate
 
