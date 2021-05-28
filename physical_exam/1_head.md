@@ -2,7 +2,7 @@
 
 Palpate:
 
-- X 
+- X
 
 ## Nose
 
@@ -14,7 +14,7 @@ Scope
 
 Palpate:
 
-- X 
+- X
 
 ## Face
 
@@ -26,7 +26,7 @@ Palpate:
 
 Palpate:
 
-- X 
+- X
 
 Scope
 
@@ -34,7 +34,7 @@ Scope
 
 Palpate:
 
-- X 
+- X
 
 Place the tongue blade on the side to avoid gag reflex, and inspect:
 

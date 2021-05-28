@@ -1,6 +1,7 @@
 ## Chest
 
 Inspect:
+
 - Distress
 - Asymmetry
 - Deformity
@@ -12,11 +13,13 @@ Palpate trachea.
 ## Lung
 
 Diaphram auscultate:
+
 - Anterior 2 levels
 - Lateral 2 levels
 - Posterior 3 levels
 
 Percuss:
+
 - Posterior 3 levels
 
 (When percussing, any fluid inside or outside the airway results in dullness.)

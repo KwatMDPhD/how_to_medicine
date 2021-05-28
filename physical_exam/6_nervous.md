@@ -22,7 +22,7 @@ Speech:
 Language:
 
 - Comprehend
-- Repeat 
+- Repeat
 - Name
 - Read
 - Write
