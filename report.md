@@ -183,7 +183,7 @@ Support
 - Constipation
 - Diarrhea
 - Rectal bleeding
-- Hematochezia
+- Lower gastrointestinal bleeding
 - Melena
 - Juandice
 
