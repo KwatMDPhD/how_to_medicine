@@ -30,13 +30,13 @@ Verify identity.
 
 "I want to assure you that everything we talk about is confidential between us and the healthcare team, except when there is an immediate threat to someone."
 
-## [Review of System](2.review_of_system.md)
+## Review System
 
 ### Summarize
 
 "I am going to try to summarize what you have told me. If I am missing anything or there is something you want to add, let me know."
 
-## [Exam](3.exam.md)
+## [Exam](2.exam.md)
 
 ## End
 
@@ -48,6 +48,6 @@ Tell the patient what is next.
 
 "It was good seeing you today PATIENTALIAS - take care."
 
-## Diagnostic
+## Diagnose
 
-## [Assessment](4.assessment.md)
+## [Assess](3.assess.md)
