@@ -48,6 +48,6 @@ Tell the patient what is next.
 
 "It was good seeing you today PATIENTALIAS - take care."
 
-## Diagnose
+## Order Diagnostic
 
 ## [Assess](3.assess.md)
