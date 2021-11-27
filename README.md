@@ -1,6 +1,6 @@
 # practice_of_medicine
 
-Algorithms for seeing patients :stethoscope: :bust_in_silhouette:
+Algorithms for seeing patients :stethoscope:
 
 ## Greet
 
