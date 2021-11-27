@@ -1,3 +1,7 @@
+# practice_of_medicine
+
+Algorithms for seeing patients :stethoscope: :bust_in_silhouette:
+
 ## Greet
 
 "I am looking for PATIENTNAME."
