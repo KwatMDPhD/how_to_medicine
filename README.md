@@ -1,4 +1,4 @@
-# practice_of_medicine
+# how_to_medicine
 
 Algorithms for seeing patients :stethoscope:
 
