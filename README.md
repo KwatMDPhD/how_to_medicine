@@ -1,7 +1,5 @@
 # how_to_medicine
 
-Algorithms for seeing patients :stethoscope:
-
 ## Greet
 
 "I am looking for PATIENTNAME."
